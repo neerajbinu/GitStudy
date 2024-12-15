@@ -1,2 +1,1 @@
-This text file was created for learning git and github.
-This is the line 2 added to demonstarte changes to the text file.
+Study Hard!!!
